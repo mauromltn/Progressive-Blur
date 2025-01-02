@@ -51,8 +51,8 @@ body {
   
   .text-content {
     position: absolute;
-    bottom: 20px;
-    left: 20px;
+    bottom: 25px;
+    left: 25px;
     color: var(--accent);
     z-index: 10;
   }
